@@ -57,7 +57,4 @@ Install the following libraries via Arduino IDE:
 - Adafruit SSD1306
 - Adafruit GFX
 
----
 
-
-}
